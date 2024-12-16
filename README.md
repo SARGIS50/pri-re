@@ -64,7 +64,7 @@
     <br>
     <br>
     <br>
-    <a href="file:///C:/Users/saqog/frequentations.html" class="button">nos péchés</a>
+    <a href="https://sargis50.github.io/nospeches/" class="button">nos péchés</a>
 </div> 
    
 
