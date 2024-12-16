@@ -60,7 +60,7 @@
     <BR>
     
    <div> 
-    <a href="file:///C:/Users/saqog/armenie%2011.html" class="button">Fréquentations</a>
+    <a href="https://sargis50.github.io/Fr-quentations.html/">Fréquentations</a>
     <br>
     <br>
     <br>
