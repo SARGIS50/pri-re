@@ -273,7 +273,7 @@ document.getElementById("year").textContent=new Date().getFullYear();
         type: 'Lycée',
   },
     {
-        nom: 'Lycée Joséphine Baker',
+        nom: 'lycée Joséphine Baker',
         ville: 'Paris',
         coord: [48.832, 2.358],
         type: 'Lycée',
